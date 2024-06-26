@@ -5,8 +5,8 @@ There are four section "Backlog", "Doing", "Done", and "Won't do". There is also
 
 ![alt text](https://github.com/girijakangutkar/To-Do_list_with_drop_down/blob/main/Screenshot%20(126).png)
 
-![alt text](https://github.com/girijakangutkar/To-Do_list_with_drop_down/blob/main/Screenshot%20(128).png)
-
 ![alt text](https://github.com/girijakangutkar/To-Do_list_with_drop_down/blob/main/Screenshot%20(127).png)
 
 ![alt text](https://github.com/girijakangutkar/To-Do_list_with_drop_down/blob/main/Screenshot%20(129).png)
+
+![alt text](https://github.com/girijakangutkar/To-Do_list_with_drop_down/blob/main/Screenshot%20(128).png)
